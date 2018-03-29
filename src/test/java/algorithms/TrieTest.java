@@ -2,7 +2,7 @@ package algorithms;
 
 import algorithms.Person;
 import algorithms.Trie;
-import junit.framework.Assert;
+import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
